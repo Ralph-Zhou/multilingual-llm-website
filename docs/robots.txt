@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://multilingual-llm.net/sitemap.xml

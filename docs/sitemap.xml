@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://multilingual-llm.net/</loc>
+    </url>
+    <url>
+        <loc>https://multilingual-llm.net/contact/</loc>
+    </url>
+    <url>
+        <loc>https://multilingual-llm.net/parameter_frozen_alignment/</loc>
+    </url>
+    <url>
+        <loc>https://multilingual-llm.net/parameter_tuned_alignment/</loc>
+    </url>
+    <url>
+        <loc>https://multilingual-llm.net/resources/</loc>
+    </url>
+    <url>
+        <loc>https://multilingual-llm.net/trends_future_work/</loc>
+    </url>
+</urlset>

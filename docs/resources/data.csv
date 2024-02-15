@@ -1,0 +1,45 @@
+name,type,link,info
+Bible Corpus,manual,https://huggingface.co/datasets/bible-nlp/biblenlp-corpus,"It offers rich linguistic and cultural content, covering 833 different languages."
+MultiUN,manual,https://conferences.unite.un.org/UNCorpus,It is composed of official records and other parliamentary documents of the United Nations that are in the public domain.
+IIT Bombay,manual,https://www.cfilt.iitb.ac.in/iitb_parallel/,"The English-Hindi corpus at IIT Bombay comprises parallel content for English-Hindi, along with monolingual Hindi data gathered from diverse existing sources and corpora."
+CC-100,web crawling,https://huggingface.co/datasets/cc100,This corpus comprises of monolingual data for 100+ languages and also includes data for romanized languages
+mC4,web crawling,https://huggingface.co/datasets/mc4,"A multilingual colossal, cleaned version of Common Crawl's web crawl corpus"
+RedPajamav2,web crawling,https://github.com/togethercomputer/RedPajama-Data,an Open Dataset with 30 Trillion Tokens for Training Large Language Models
+OSCAR,web crawling,https://huggingface.co/datasets/oscar-corpus/OSCAR-2301,a huge multilingual corpus obtained by language classification and filtering of the Common Crawl corpus using the ungoliant architecture
+Oromo,web crawling,https://huggingface.co/datasets/castorini/afriberta-corpus,"The dataset is mostly from the BBC news website, and some languages also have data from Common Crawl."
+Wu Dao 2.0,web crawling,https://data.baai.ac.cn/details/WuDaoCorporaText,"a large dataset constructed for training Wu Dao 2.0. It contains 3 terabytes of text scraped from web data, 90 terabytes of graphical data (incorporating 630 million text/image pairs), and 181 gigabytes of Chinese dialogue (incorporating 1.4 billion dialogue rounds)"
+Europarl,web crawling,https://www.statmt.org/europarl/,The Europarl parallel corpus is extracted from the proceedings of the European Parliament. It includes versions in 21 European languages
+JW300,web crawling,~,~
+Glot500,web crawling,https://github.com/cisnlp/Glot500?tab=readme-ov-file#glot500-c,a large corpus covering more than 500 diverse languages
+Wikimedia,web crawling,https://dumps.wikimedia.org/,"It include Wikipedia, Wikivoyage, Wiktionary, Wikisource, and others."
+WikiMatrix,web crawling,https://github.com/facebookresearch/LASER/tree/main/tasks/WikiMatrix,"A freely available corpus of 135 million parallel sentences extracted from Wikipedia articles in 85 languages, facilitating multilingual natural language processing tasks."
+OPUS-100,web crawling,https://huggingface.co/datasets/opus100,"An English-centric corpus covering 100 languages, including English, selected based on the volume of parallel data available in OPUS, with all training pairs including English on either the source or target side."
+AfricanNews,web crawling,https://github.com/masakhane-io/lafand-mt,A corpus covering 16 languages. Some languages are very low-resource languages.
+Taxi1500,web crawling,https://github.com/cisnlp/Taxi1500,"A dataset for assessing multilingual pre-trained language models' cross-lingual generalization, comprising a sentence classification task across 1502 languages from 112 language families."
+CulturaX,web crawling,https://huggingface.co/datasets/uonlp/CulturaX,"a substantial multilingual dataset with 6.3 trillion tokens in 167 languages, tailored for LLM development."
+ROOTS,benckmark adaption,https://huggingface.co/bigscience-data,"A 1.6TB dataset spanning 59 languages (46 natural languages and 13 programming languages), aimed at training the BigScience large-scale open-access multilingual model, BLOOM, comprising 176 billion parameters."
+OPUS,benckmark adaption,https://opus.nlpl.eu/,a large collection of freely available parallel corpora. It covers over 90 languages and includes data from several domains.
+CCMT,benckmark adaption,~,~
+WMT,benckmark adaption,~,~
+IWSLT,benckmark adaption,~,~
+,,,
+,,,
+Sup-NatInst,manual,https://instructions.apps.allenai.org/,"A benchmark of 1,616 diverse NLP tasks with expert-written instructions, covering 76 task types. It enables rigorous evaluation of NLP models' cross-task generalization capabilities under instruction guidance."
+OpenAssist,manual,https://huggingface.co/OpenAssistant,"A conversation corpus, OpenAssistant Conversations, comprises 161,443 messages across 66,497 conversation trees in 35 languages."
+EcoInstruct,manual,https://github.com/Alibaba-NLP/EcomGPT,"It comprises 2.5 million E-commerce instruction data, scaling up the data size and task diversity by constructing atomic tasks with E-commerce basic data types"
+COIG-PC-lite,manual,https://huggingface.co/datasets/BAAI/COIG-PC-Lite,"A curated dataset for Chinese NLP tasks, aimed at improving language models' performance in handling Chinese text across various applications."
+xP3,benckmark adaption,https://huggingface.co/datasets/bigscience/xP3,"A collection of prompts and datasets spanning 46 languages and 16 NLP tasks, utilized for training BLOOMZ and mT0."
+BUFFET,benckmark adaption,https://huggingface.co/datasets/BuffetFS/BUFFET,It unifies 15 diverse NLP datasets in typologically diverse 54 languages.
+PolyglotPrompt,benckmark adaption,https://github.com/jinlanfu/Polyglot_Prompt,"A comprehensive evaluation covering six tasks - topic classification, sentiment classification, named entity recognition, question answering, natural language inference, and summarization - across 24 datasets and 49 languages."
+xP3-MT,translation,https://huggingface.co/datasets/bigscience/xP3mt,It is a mixture of 13 training tasks in 46 languages with prompts in 20 languages (machine-translated from English).
+MultilingualSIFT,translation,https://github.com/FreedomIntelligence/MultilingualSIFT,A dataset translated using GPT-3.5 Turbo
+Bactrian-X,translation,https://huggingface.co/datasets/MBZUAI/Bactrian-X,A dataset with 3.4 million instruction-response pairs in 52 languages. English instructions from alpaca-52k and dolly-15k are translated into 51 languages using Google Translate API.
+CrossAlpaca,translation,https://github.com/lranaldii/CrossAlpaca,The benchmarks used in CrossAlpaca
+MGSM8KInstruct,translation,https://github.com/microsoft/MathOctopus,An inaugural multilingual math reasoning instruction dataset
+XCoT,translation,~,~
+MultiAlpaca,mllm aided,https://huggingface.co/DAMO-NLP-MT,"a multilingual instruction dataset with 132,701 samples"
+Guanaco,mllm aided,https://github.com/artidoro/qlora,a dataset used in Guanaco models
+Alpaca-4,mllm aided,https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM,"a dataset generated by GPT-4, consisting of a 52K instruction-following dataset in both English and Chinese, along with GPT-4-generated feedback data rating the outputs of three instruction-tuned models."
+ShareGPT,mllm aided,~,~
+Vicuna,mllm aided,~,~
+OverMiss,mllm aided,https://github.com/pppa2019/swie_overmiss_llm4mt,a dataset used to improve model faithfulness by comparing over-translation and misstranslation results with the correct translation

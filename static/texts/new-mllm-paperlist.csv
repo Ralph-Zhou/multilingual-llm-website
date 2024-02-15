@@ -1,0 +1,188 @@
+title,author,paperlink,codelink,nickname,conference,type,subtype,time,ID
+Scaling instruction-finetuned language models,Chung et al,https://arxiv.org/abs/2210.11416,,,Arxiv,PTA,sft,2022,chung2022scaling
+Super-naturalinstructions: Generalization via declarative instructions on 1600+ nlp tasks,Wang et al,https://aclanthology.org/2022.emnlp-main.340,,,ACL,PTA,sft,2022,wang2022super
+Crosslingual generalization through multitask finetuning,Muennighoff et al,https://arxiv.org/abs/2211.01786,,,Arxiv,PTA,sft,2022,muennighoff2022crosslingual
+Polylm: An open source polyglot large language model,Wei et al,https://arxiv.org/abs/2307.06018,https://modelscope.cn/models/damo/nlp_polylm_13b_text_generation/,,Arxiv,PTA,sft,2023,wei2023polylm
+Mono- and multilingual GPT-3 models for Hungarian,Yang et al,https://link.springer.com/chapter/10.1007/978-3-031-40498-6_9,,,LNAI,PTA,sft,2023,yang2023mono
+Efficient and effective text encoding for chinese llama and alpaca,Cui et al,https://arxiv.org/abs/2304.08177,,,Arxiv,PTA,sft,2023,cui2023efficient
+YuLan-Chat: An Open-Source Bilingual Chatbot,YuLan-Teaml,,https://github.com/RUC-GSAI/YuLan-Chat,,,PTA,sft,2023,YuLan-Chat
+Monolingual or Multilingual Instruction Tuning: Which Makes a Better Alpaca,Chen et al,https://arxiv.org/abs/2309.08958,https://github.com/hplt-project/monolingual-multilingual-instruction-tuning,,Arxiv,PTA,sft,2023,chen2023monolingual
+BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models,Zhang et al,https://arxiv.org/abs/2306.10968,https://github.com/ictnlp/BayLing,,Arxiv,PTA,sft,2023,zhang2023bayling
+Phoenix: Democratizing chatgpt across languages,Chen et al,https://arxiv.org/abs/2304.10453,https://github.com/FreedomIntelligence/LLMZoo,,Arxiv,PTA,sft,2023,chen2023phoenix
+Improving Translation Faithfulness of Large Language Models via Augmenting Instructions,Chen et al,https://arxiv.org/abs/2308.12674,https://github.com/pppa2019/swie_overmiss_llm4mt,,Arxiv,PTA,sft,2023,chen2023improving
+Empowering Multi-step Reasoning across Languages via Tree-of-Thoughts,Ranaldi et al,https://arxiv.org/abs/2311.08097,,,Arxiv,PTA,sft,2023,ranaldi2023empowering
+EcomGPT: Instruction-tuning Large Language Model with Chain-of-Task Tasks for E-commerce,Li et al,https://arxiv.org/abs/2308.06966,https://github.com/Alibaba-NLP/EcomGPT,,Arxiv,PTA,sft,2023,li2023ecomgpt
+Improving Translation Faithfulness of Large Language Models via Augmenting Instructions,Chen et al,https://arxiv.org/abs/2308.12674,https://github.com/pppa2019/swie_overmiss_llm4mt,,Arxiv,PTA,sft,2023,chen2023improving
+Camoscio: An italian instruction-tuned llama,Santilli et al,https://arxiv.org/abs/2307.16456,,,Arxiv,PTA,sft,2023,santilli2023camoscio
+Conversations in Galician: a Large Language Model for an Underrepresented Language,Bao et al,https://arxiv.org/abs/2311.03812,https://gitlab.irlab.org/irlab/cabuxa,,Arxiv,PTA,sft,2023,bao2023conversations
+Building a Llama2-finetuned LLM for Odia Language Utilizing Domain Knowledge Instruction Set,Kohli et al,https://arxiv.org/abs/2312.12624,,,Arxiv,PTA,sft,2023,kohli2023building
+Making Instruction Finetuning Accessible to Non-English Languages: A Case Study on Swedish Models,Holmstr?m et al,https://aclanthology.org/2023.nodalida-1.62,https://github.com/oskarholmstrom/sweinstruct,,NoDaLiDa,PTA,sft,2023,holmstrom2023making
+Extrapolating Large Language Models to Non-English by Aligning Languages,Zhu et al,https://arxiv.org/abs/2308.04948,https://github.com/NJUNLP/x-LLM,,Arxiv,PTA,sft,2023,zhu2023extrapolating
+Instruct-Align: Teaching Novel Languages with to LLMs through Alignment-based Cross-Lingual Instruction,Cahyawijaya et al,https://arxiv.org/abs/2305.13627,https://github.com/HLTCHKUST/InstructAlign,,Arxiv,PTA,sft,2023,cahyawijaya2023instruct
+Eliciting the Translation Ability of Large Language Models via Multilingual Finetuning with Translation Instructions,Li et al,https://arxiv.org/abs/2305.15083,,,Arxiv,PTA,sft,2023,li2023eliciting
+Palm 2 technical report,Anil et al,https://arxiv.org/abs/2305.10403,,,Arxiv,PTA,sft,2023,anil2023palm
+Towards Boosting Many-to-Many Multilingual Machine Translation with Large Language Models,Gao et al,https://arxiv.org/abs/2401.05861,https://github.com/gpengzhi/CrossConST-LLM,,Arxiv,PTA,sft,2024,gao2024towards
+TaCo: Enhancing Cross-Lingual Transfer for Low-Resource Languages in LLMs through Translation-Assisted Chain-of-Thought Processes,Upadhayay et al,https://arxiv.org/abs/2311.10797,https://github.com/UNHSAILLab/TaCo,,Arxiv,PTA,sft,2023,upadhayay2023taco
+ParroT: Translating during chat using large language models tuned with human translation and feedback,Jiao et al,https://arxiv.org/abs/2304.02426,https://github.com/wxjiao/ParroT,,Arxiv,PTA,sft,2023,jiao2023parrot
+xCoT: Cross-lingual Instruction Tuning for Cross-lingual Chain-of-Thought Reasoning,Chai et al,https://arxiv.org/abs/2401.07037,,,Arxiv,PTA,sft,2024,chai2024xcot
+Question Translation Training for Better Multilingual Reasoning,Zhu et al,https://arxiv.org/abs/2401.07817,https://github.com/NJUNLP/Qalign,,Arxiv,PTA,sft,2024,zhu2024question
+Introducing Bode: A Fine-Tuned Large Language Model for Portuguese Prompt-Based Task,Garcia et al,https://arxiv.org/abs/2401.02909,,,Arxiv,PTA,sft,2024,garcia2024introducing
+Language models are few-shot learners,Brown et al,https://arxiv.org/abs/2209.14500,,,Arxiv,PTA,pretraining,2020,brown2020language
+mT5: A massively multilingual pre-trained text-to-text transformer,Xue et al,https://aclanthology.org/2021.naacl-main.41,https://github.com/google-research/multilingual-t5,,ACL,PTA,pretraining,2020,xue2020mt5
+Ernie 3.0: Large-scale knowledge enhanced pre-training for language understanding and generation,Sun et al,https://arxiv.org/abs/2107.02137,,,Arxiv,PTA,pretraining,2021,sun2021ernie
+What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers,Kim et al,https://aclanthology.org/2021.emnlp-main.274,,,EMNLP,PTA,pretraining,2021,kim2021changes
+nmT5--Is parallel data still relevant for pre-training massively multilingual language models?,Kale et al,https://aclanthology.org/2021.acl-short.87,,,ACL,PTA,pretraining,2021,kale2021nmt5
+Welm: A well-read pre-trained language model for chinese,Su et al,https://arxiv.org/abs/2209.10372,,,Arxiv,PTA,pretraining,2022,su2022welm
+Bloom: A 176b-parameter open-access multilingual language model,Workshop et al,https://arxiv.org/abs/2211.05100,https://huggingface.co/bigscience/bloom,,Arxiv,PTA,pretraining,2022,workshop2022bloom
+Opt: Open pre-trained transformer language models,Zhang et al,https://arxiv.org/abs/2205.01068,,,Arxiv,PTA,pretraining,2022,zhang2022opt
+GPT-NeoX-20B: An Open-Source Autoregressive Language Model,Black et al,https://aclanthology.org/2022.bigscience-1.9,https://github.com/EleutherAI/gpt-neox,,ACL,PTA,pretraining,2022,black2022gpt
+Palm: Scaling language modeling with pathways,Chowdhery et al,https://arxiv.org/abs/2204.02311,,,Arxiv,PTA,pretraining,2022,chowdhery2022palm
+Glm-130b: An open bilingual pre-trained model,Zeng et al,https://arxiv.org/abs/2210.02414,https://github.com/THUDM/GLM-130B/,,Arxiv,PTA,pretraining,2022,zeng2022glm
+Few-shot Learning with Multilingual Generative Language Models,Lin et al,https://aclanthology.org/2022.emnlp-main.616,https://github.com/facebookresearch/fairseq/tree/main/examples/xglm,,EMNLP,PTA,pretraining,2022,lin-etal-2022-shot
+Byt5: Towards a token-free future with pre-trained byte-to-byte models,Xue et al,https://arxiv.org/abs/2105.13626,https://github.com/google-research/byt5,,TACL,PTA,pretraining,2022,xue2022byt5
+mgpt: Few-shot learners go multilingual,Shliazhko et al,https://arxiv.org/abs/2204.07580,https://github.com/ai-forever/mgpt,,Arxiv,PTA,pretraining,2022,shliazhko2022mgpt
+UniMax: Fairer and More Effective Language Sampling for Large-Scale Multilingual Pretraining,Chung et al,https://arxiv.org/abs/2304.09151,,,Arxiv,PTA,pretraining,2022,chung2022unimax
+Language contamination helps explain the cross-lingual capabilities of English pretrained models,Blevins et al,https://arxiv.org/abs/2204.08110,,,Arxiv,PTA,pretraining,2022,blevins2022language
+mLongT5: A Multilingual and Efficient Text-To-Text Transformer for Longer Sequences,Uthus et al,https://arxiv.org/abs/2305.11129,https://github.com/google-research/longt5,,Arxiv,PTA,pretraining,2023,uthus2023mlongt5
+Llama: Open and efficient foundation language models,Touvron et al,https://arxiv.org/abs/2302.13971,https://github.com/facebookresearch/llama,,Arxiv,PTA,pretraining,2023,touvron2023llama
+Llama 2: Open foundation and fine-tuned chat models,Touvron et al,https://arxiv.org/abs/2307.09288,https://github.com/facebookresearch/llama,,Arxiv,PTA,pretraining,2023,touvron2023llama2
+Multi-Lingual Sentence Alignment with GPT Models,Liang et al,https://ieeexplore.ieee.org/abstract/document/10284652,,,AiDAS,PTA,pretraining,2023,liang2023multi
+Skywork: A more open bilingual foundation model,Wei et al,https://arxiv.org/abs/2310.19341,https://github.com/SkyworkAI/Skywork,,Arxiv,PTA,pretraining,2023,wei2023skywork
+Cross-Lingual Transfer of Large Language Model by Visually-Derived Supervision Toward Low-Resource Languages,Muraoka et al,https://dl.acm.org/doi/abs/10.1145/3581783.3611992,,,ACM MM,PTA,pretraining,2023,muraoka2023cross
+Searching for Needles in a Haystack: On the Role of Incidental Bilingualism in PaLM's Translation Capability,Briakou et al,https://arxiv.org/abs/2305.10266,,,Arxiv,PTA,pretraining,2023,briakou2023searching
+Cross-Lingual Supervision improves Large Language Models Pre-training,Schioppa et al,https://arxiv.org/abs/2305.11778,,,Arxiv,PTA,pretraining,2023,schioppa2023cross
+JASMINE: Arabic GPT Models for Few-Shot Learning,Abdul-Mageed et al,https://arxiv.org/abs/2212.10755,,,Arxiv,PTA,pretraining,2023,abdul2023jasmine
+Bridging the Resource Gap: Exploring the Efficacy of English and Multilingual LLMs for Swedish,Holmstr?m et al,https://aclanthology.org/2023.resourceful-1.13,,,ACL,PTA,pretraining,2023,holmstrom2023bridging
+Mixtral of experts,Jiang et al,https://arxiv.org/abs/2401.04088,https://github.com/mistralai/mistral-src,,Arxiv,PTA,pretraining,2024,jiang2024mixtral
+Mistral 7B,Jiang et al,https://arxiv.org/abs/2310.06825,https://github.com/mistralai/mistral-src,,Arxiv,PTA,pretraining,2023,jiang2023mistral
+TURNA: A Turkish Encoder-Decoder Language Model for Enhanced Understanding and Generation,Uludo?an et al,https://arxiv.org/abs/2401.14373,https://huggingface.co/boun-tabi-LMG/TURNA,,Arxiv,PTA,pretraining,2024,uludougan2024turna
+Breaking the Curse of Multilinguality with Cross-lingual Expert Language Models,Blevins et al,https://arxiv.org/abs/2401.10440,,,Arxiv,PTA,pretraining,2024,blevins2024breaking
+Cpm-2: Large-scale cost-effective pre-trained language models,Zhang et al,https://arxiv.org/abs/2106.10715,https://github.com/TsinghuaAI/CPM,,Arxiv,PTA,pretraining,2021,zhang2021cpm
+Overcoming catastrophic forgetting in zero-shot cross-lingual generation,Vu et al,https://aclanthology.org/2022.emnlp-main.630,,,EMNLP,PTA,pretraining,2022,vu2022overcoming
+FinGPT: Large Generative Models for a Small Language,Luukkonen et al,https://arxiv.org/abs/2311.05640,https://turkunlp.org/gpt3-finnish,,Arxiv,PTA,pretraining,2023,luukkonen2023fingpt
+Cabrita: closing the gap for foreign languages,Larcher et al,https://arxiv.org/abs/2308.11878,,,Arxiv,PTA,pretraining,2023,larcher2023cabrita
+LLaMAntino: LLaMA 2 Models for Effective Text Generation in Italian Language,Basile et al,https://arxiv.org/abs/2312.09993,,,Arxiv,PTA,pretraining,2023,basile2023llamantino
+Align after Pre-train: Improving Multilingual Generative Models with Cross-lingual Alignment,Li et al,https://arxiv.org/abs/2311.08089,,,Arxiv,PTA,pretraining,2023,li2023align
+Sabi¨¢: Portuguese Large Language Models,Pires et al,https://arxiv.org/abs/2304.07880,https://huggingface.co/maritaca-ai/sabia-7b,,Arxiv,PTA,pretraining,2023,pires2023sabi
+Efficient and effective text encoding for chinese llama and alpaca,Cui et al,https://arxiv.org/abs/2304.08177,https://github.com/ymcui/Chinese-LLaMA-Alpaca,,Arxiv,PTA,pretraining,2023,cui2023efficient
+Chinese-Mixtral-8x7B: An Open-Source Mixture-of-Experts LLM,HIT-SCIR,,https://github.com/HIT-SCIR/Chinese-Mixtral-8x7B,,,PTA,pretraining,2024,Chinese-Mixtral
+ChatGPT,OpenAI,https://arxiv.org/abs/2401.17163,,,Arxiv,PTA,rlhf,2022,openai2022chatgpt
+Glm-130b: An open bilingual pre-trained model,Zeng et al,https://arxiv.org/abs/2210.02414,https://github.com/THUDM/GLM-130B/,,Arxiv,PTA,rlhf,2022,zeng2022glm
+GPT-4 Technical Report,OpenAI,https://arxiv.org/abs/2303.08774,,,Arxiv,PTA,rlhf,2023,openai2023gpt4
+Okapi: Instruction-tuned Large Language Models in Multiple Languages with Reinforcement Learning from Human Feedback,Lai et al,https://arxiv.org/abs/2307.16039,https://github.com/nlp-uoregon/Okapi,,Arxiv,PTA,rlhf,2023,lai2023okapi
+Llama 2: Open foundation and fine-tuned chat models,Touvron et al,https://arxiv.org/abs/2307.09288,https://github.com/facebookresearch/llama,,Arxiv,PTA,rlhf,2023,touvron2023llama2
+MOSS: Training Conversational Language Models from Synthetic Data,Sun et al,,https://github.com/OpenLMLab/MOSS,,,PTA,rlhf,2023,sun2023moss
+Baichuan 2: Open large-scale language models,Yang et al,https://arxiv.org/abs/2309.10305,https://github.com/baichuan-inc/Baichuan2,,Arxiv,PTA,rlhf,2023,yang2023baichuan
+Huozi: An Open-Source Universal LLM,Huozi Team,,https://github.com/HIT-SCIR/huozi,,,PTA,rlhf,2024,huozi
+Qwen-vl: A frontier large vision-language model with versatile abilities,Bai et al,https://arxiv.org/abs/2308.12966,https://github.com/QwenLM/Qwen-VL,,Arxiv,PTA,rlhf,2023,bai2023qwen
+Internlm: A multilingual language model with progressively enhanced capabilities,Team et al,https://raw.githubusercontent.com/InternLM/InternLM-techreport/main/InternLM.pdf,https://github.com/InternLM/InternLM,,,PTA,rlhf,2023,team2023internlm
+TigerBot: An Open Multilingual Multitask LLM,Chen et al,https://arxiv.org/abs/2312.08688,https://github.com/TigerResearch/TigerBot,,Arxiv,PTA,rlhf,2023,chen2023tigerbot
+YAYI 2: Multilingual Open-Source Large Language Models,Luo et al,https://arxiv.org/abs/2312.14862,,,Arxiv,PTA,rlhf,2023,luo2023yayi
+Tim: Teaching large language models to translate with comparison,Zeng et al,https://arxiv.org/abs/2307.04408,https://github.com/lemon0830/TIM,,Arxiv,PTA,rlhf,2023,zeng2023tim
+Direct Preference Optimization for Neural Machine Translation with Minimum Bayes Risk Decoding,Yang et al,https://arxiv.org/abs/2311.08380,,,Arxiv,PTA,rlhf,2023,yang2023direct
+SteerLM: Attribute Conditioned SFT as an (User-Steerable) Alternative to RLHF,Dong et al,https://arxiv.org/abs/2310.05344,https://huggingface.co/nvidia/SteerLM-llama2-13B,,Arxiv,PTA,rlhf,2023,dong2023steerlm
+Salmon: Self-alignment with principle-following reward models,Sun et al,https://arxiv.org/abs/2310.05910,https://github.com/IBM/SALMON,,Arxiv,PTA,rlhf,2023,sun2023salmon
+Aligning Neural Machine Translation Models: Human Feedback in Training and Inference,Moura Ramos et al,https://arxiv.org/abs/2311.09132,,,Arxiv,PTA,rlhf,2023,moura2023aligning
+MAPO: Advancing Multilingual Reasoning through Multilingual Alignment-as-Preference Optimization,She et al,https://arxiv.org/abs/2401.06838,,,Arxiv,PTA,rlhf,2024,she2024mapo
+Orion-14B: Open-source Multilingual Large Language Models,Chen et al,https://arxiv.org/abs/2401.12246,https://github.com/OrionStarAI/Orion,,Arxiv,PTA,rlhf,2024,chen2024orion
+Scaling instruction-finetuned language models,Chung et al,https://arxiv.org/abs/2210.11416,https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints,,Arxiv,PTA,finetuning,2022,chung2022scaling
+Super-naturalinstructions: Generalization via declarative instructions on 1600+ nlp tasks,Wang et al,https://aclanthology.org/2022.emnlp-main.340,https://instructions.apps.allenai.org/,,EMNLP,PTA,finetuning,2022,wang2022super
+Crosslingual generalization through multitask finetuning,Muennighoff et al,https://arxiv.org/abs/2211.01786,https://github.com/bigscience-workshop/xmtf,,Arxiv,PTA,finetuning,2022,muennighoff2022crosslingual
+Polylm: An open source polyglot large language model,Wei et al,https://arxiv.org/abs/2307.06018,https://modelscope.cn/models/damo/nlp_polylm_13b_text_generation/,,Arxiv,PTA,finetuning,2023,wei2023polylm
+Mono- and multilingual GPT-3 models for Hungarian,Yang et al,https://link.springer.com/chapter/10.1007/978-3-031-40498-6_9,,,LNAI,PTA,finetuning,2023,yang2023mono
+Efficient and effective text encoding for chinese llama and alpaca,Cui et al,https://arxiv.org/abs/2304.08177,https://github.com/ymcui/Chinese-LLaMA-Alpaca,,Arxiv,PTA,finetuning,2023,cui2023efficient
+YuLan-Chat: An Open-Source Bilingual Chatbot,YuLan-Team,,https://github.com/RUC-GSAI/YuLan-Chat,,,PTA,finetuning,2023,YuLan-Chat
+Monolingual or Multilingual Instruction Tuning: Which Makes a Better Alpaca,Chen et al,https://arxiv.org/abs/2309.08958,https://github.com/hplt-project/monolingual-multilingual-instruction-tuning,,Arxiv,PTA,finetuning,2023,chen2023monolingual
+BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models,Zhang et al,https://arxiv.org/abs/2306.10968,https://github.com/ictnlp/BayLing,,Arxiv,PTA,finetuning,2023,zhang2023bayling
+Phoenix: Democratizing chatgpt across languages,Chen et al,https://arxiv.org/abs/2304.10453,https://github.com/FreedomIntelligence/LLMZoo,,Arxiv,PTA,finetuning,2023,chen2023phoenix
+Improving Translation Faithfulness of Large Language Models via Augmenting Instructions,Chen et al,https://arxiv.org/abs/2308.12674,https://github.com/pppa2019/swie_overmiss_llm4mt,,Arxiv,PTA,finetuning,2023,chen2023improving
+Empowering Multi-step Reasoning across Languages via Tree-of-Thoughts,Ranaldi et al,https://arxiv.org/abs/2311.08097,,,Arxiv,PTA,finetuning,2023,ranaldi2023empowering
+EcomGPT: Instruction-tuning Large Language Model with Chain-of-Task Tasks for E-commerce,Li et al,https://arxiv.org/abs/2308.06966,https://github.com/Alibaba-NLP/EcomGPT,,Arxiv,PTA,finetuning,2023,li2023ecomgpt
+Improving Translation Faithfulness of Large Language Models via Augmenting Instructions,Chen et al,https://arxiv.org/abs/2308.12674,https://github.com/pppa2019/swie_overmiss_llm4mt,,Arxiv,PTA,finetuning,2023,chen2023improving
+Camoscio: An italian instruction-tuned llama,Santilli et al,https://arxiv.org/abs/2307.16456,https://github.com/teelinsan/camoscio,,Arxiv,PTA,finetuning,2023,santilli2023camoscio
+Conversations in Galician: a Large Language Model for an Underrepresented Language,Bao et al,https://arxiv.org/abs/2311.03812,https://huggingface.co/irlab-udc/cabuxa-7b,,Arxiv,PTA,finetuning,2023,bao2023conversations
+Building a Llama2-finetuned LLM for Odia Language Utilizing Domain Knowledge Instruction Set,Kohli et al,https://arxiv.org/abs/2312.12624,,,Arxiv,PTA,finetuning,2023,kohli2023building
+Making Instruction Finetuning Accessible to Non-English Languages: A Case Study on Swedish Models,Holmstr?m et al,https://aclanthology.org/2023.nodalida-1.62,,,NoDaLiDa,PTA,finetuning,2023,holmstrom2023making
+Extrapolating Large Language Models to Non-English by Aligning Languages,Zhu et al,https://arxiv.org/abs/2308.04948,https://github.com/NJUNLP/x-LLM,,Arxiv,PTA,finetuning,2023,zhu2023extrapolating
+Instruct-Align: Teaching Novel Languages with to LLMs through Alignment-based Cross-Lingual Instruction,Cahyawijaya et al,https://arxiv.org/abs/2305.13627,https://github.com/HLTCHKUST/InstructAlign,,Arxiv,PTA,finetuning,2023,cahyawijaya2023instruct
+Eliciting the Translation Ability of Large Language Models via Multilingual Finetuning with Translation Instructions,Li et al,https://arxiv.org/abs/2305.15083,,,Arxiv,PTA,finetuning,2023,li2023eliciting
+Palm 2 technical report,Anil et al,https://arxiv.org/abs/2305.10403,,,Arxiv,PTA,finetuning,2023,anil2023palm
+Towards Boosting Many-to-Many Multilingual Machine Translation with Large Language Models,Gao et al,https://arxiv.org/abs/2401.05861,https://github.com/gpengzhi/CrossConST-LLM,,Arxiv,PTA,finetuning,2024,gao2024towards
+TaCo: Enhancing Cross-Lingual Transfer for Low-Resource Languages in LLMs through Translation-Assisted Chain-of-Thought Processes,Upadhayay et al,https://arxiv.org/abs/2311.10797,https://github.com/UNHSAILLab/TaCo,,Arxiv,PTA,finetuning,2023,upadhayay2023taco
+ParroT: Translating during chat using large language models tuned with human translation and feedback,Jiao et al,https://arxiv.org/abs/2304.02426,https://github.com/wxjiao/ParroT,,Arxiv,PTA,finetuning,2023,jiao2023parrot
+xCoT: Cross-lingual Instruction Tuning for Cross-lingual Chain-of-Thought Reasoning,Chai et al,https://arxiv.org/abs/2401.07037,,,Arxiv,PTA,finetuning,2024,chai2024xcot
+Question Translation Training for Better Multilingual Reasoning,Zhu et al,https://arxiv.org/abs/2401.07817,https://github.com/NJUNLP/Qalign,,Arxiv,PTA,finetuning,2024,zhu2024question
+Introducing Bode: A Fine-Tuned Large Language Model for Portuguese Prompt-Based Task,Garcia et al,https://arxiv.org/abs/2401.02909,,,Arxiv,PTA,finetuning,2024,garcia2024introducing
+ChatGPT,OpenAI,https://arxiv.org/abs/2401.17163,,,Arxiv,PTA,finetuning,2022,openai2022chatgpt
+Glm-130b: An open bilingual pre-trained model,Zeng et al,https://arxiv.org/abs/2210.02414,https://github.com/THUDM/GLM-130B/,,Arxiv,PTA,finetuning,2022,zeng2022glm
+GPT-4 Technical Report,OpenAI,https://arxiv.org/abs/2303.08774,,,Arxiv,PTA,finetuning,2023,openai2023gpt4
+Okapi: Instruction-tuned Large Language Models in Multiple Languages with Reinforcement Learning from Human Feedback,Lai et al,https://arxiv.org/abs/2307.16039,https://github.com/nlp-uoregon/Okapi,,Arxiv,PTA,finetuning,2023,lai2023okapi
+Llama 2: Open foundation and fine-tuned chat models,Touvron et al,https://arxiv.org/abs/2307.09288,https://github.com/facebookresearch/llama,,Arxiv,PTA,finetuning,2023,touvron2023llama2
+MOSS: Training Conversational Language Models from Synthetic Data,Sun et al,,,,,PTA,finetuning,2023,sun2023moss
+Baichuan 2: Open large-scale language models,Yang et al,https://arxiv.org/abs/2309.10305,https://github.com/baichuan-inc/Baichuan2,,Arxiv,PTA,finetuning,2023,yang2023baichuan
+Huozi: An Open-Source Universal LLM,Huozi Team,,https://github.com/HIT-SCIR/huozi,,,PTA,finetuning,2023,huozi
+Qwen-vl: A frontier large vision-language model with versatile abilities,Bai et al,https://arxiv.org/abs/2308.12966,https://github.com/QwenLM/Qwen-VL,,Arxiv,PTA,finetuning,2023,bai2023qwen
+Internlm: A multilingual language model with progressively enhanced capabilities,Team et al,https://raw.githubusercontent.com/InternLM/InternLM-techreport/main/InternLM.pdf,https://github.com/InternLM/InternLM,,,PTA,finetuning,2023,team2023internlm
+TigerBot: An Open Multilingual Multitask LLM,Chen et al,https://arxiv.org/abs/2312.08688,https://github.com/TigerResearch/TigerBot,,Arxiv,PTA,finetuning,2023,chen2023tigerbot
+YAYI 2: Multilingual Open-Source Large Language Models,Luo et al,https://arxiv.org/abs/2312.14862,https://github.com/wenge-research/YAYI2,,Arxiv,PTA,finetuning,2023,luo2023yayi
+Tim: Teaching large language models to translate with comparison,Zeng et al,https://arxiv.org/abs/2307.04408,https://github.com/lemon0830/TIM,,Arxiv,PTA,finetuning,2023,zeng2023tim
+Direct Preference Optimization for Neural Machine Translation with Minimum Bayes Risk Decoding,Yang et al,https://arxiv.org/abs/2311.08380,,,Arxiv,PTA,finetuning,2023,yang2023direct
+SteerLM: Attribute Conditioned SFT as an (User-Steerable) Alternative to RLHF,Dong et al,https://arxiv.org/abs/2310.05344,https://huggingface.co/nvidia/SteerLM-llama2-13B,,Arxiv,PTA,finetuning,2023,dong2023steerlm
+Salmon: Self-alignment with principle-following reward models,Sun et al,https://arxiv.org/abs/2310.05910,https://github.com/IBM/SALMON,,Arxiv,PTA,finetuning,2023,sun2023salmon
+Aligning Neural Machine Translation Models: Human Feedback in Training and Inference,Moura Ramos et al,https://arxiv.org/abs/2311.09132,,,Arxiv,PTA,finetuning,2023,moura2023aligning
+MAPO: Advancing Multilingual Reasoning through Multilingual Alignment-as-Preference Optimization,She et al,https://arxiv.org/abs/2401.06838,,,Arxiv,PTA,finetuning,2024,she2024mapo
+Orion-14B: Open-source Multilingual Large Language Models,Chen et al,https://arxiv.org/abs/2401.12246,https://github.com/OrionStarAI/Orion,,Arxiv,PTA,finetuning,2024,chen2024orion
+"Cross-lingual Cross-temporal Summarization: Dataset, Models, Evaluation",Zhang et al,https://arxiv.org/abs/2306.12916,https://github.com/zhangr2021/CLCTS,,Arxiv,PFA,direct,2023,zhang2023cross
+Language models are multilingual chain-of-thought reasoners,Shi et al,https://arxiv.org/abs/2210.03057,https://github.com/google-research/url-nlp,,Arxiv,PFA,direct,2022,shi2022language
+Breaking Language Barriers with a LEAP: Learning Strategies for Polyglot LLMs,Nambi et al,https://arxiv.org/abs/2305.17740,,,Arxiv,PFA,direct,2023,nambi2023breaking
+Large language models as annotators: Enhancing generalization of nlp models at minimal cost,Bansal et al,https://arxiv.org/abs/2306.15766,,,Arxiv,PFA,direct,2023,bansal2023large
+Benchmarking Arabic AI with Large Language Models,Abdelali et al,https://arxiv.org/abs/2305.14982,https://github.com/qcri/LLMeBench,,Arxiv,PFA,direct,2023,abdelali2023benchmarking
+Cross-lingual knowledge editing in large language models,Wang et al,https://arxiv.org/abs/2309.08952,https://github.com/krystalan/Bi-ZsRE,,Arxiv,PFA,direct,2023,wang2023cross
+Document-level machine translation with large language models,Wang et al,https://arxiv.org/abs/2304.02210,https://github.com/longyuewangdcu/Document-MT-LLM,,Arxiv,PFA,direct,2023,wang2023document
+Zero-shot Bilingual App Reviews Mining with Large Language Models,Wei et al,https://arxiv.org/abs/2311.03058,,,Arxiv,PFA,direct,2023,wei2023zero
+"Machine Translation with Large Language Models: Prompt Engineering for Persian, English, and Russian Directions",Pourkamali et al,https://arxiv.org/abs/2401.08429,,,Arxiv,PFA,direct,2024,pourkamali2024machine
+Language models are multilingual chain-of-thought reasoners,Shi et al,https://arxiv.org/abs/2210.03057,https://github.com/google-research/url-nlp,,Arxiv,PFA,cross_lingual,2022,shi2022language
+Cross-lingual Prompting: Improving Zero-shot Chain-of-Thought Reasoning across Languages,Qin et al,https://arxiv.org/abs/2310.14799,https://github.com/LightChen233/cross-lingual-prompting,,Arxiv,PFA,cross_lingual,2023,qin2023crosslingual
+BUFFET: Benchmarking Large Language Models for Few-shot Cross-lingual Transfer,Asai et al,https://arxiv.org/abs/2305.14857,https://buffetfs.github.io/,,Arxiv,PFA,cross_lingual,2023,asai2023buffet
+Cross-lingual Few-Shot Learning on Unseen Languages,Winata et al,https://aclanthology.org/2022.aacl-main.59,,,ACL,PFA,cross_lingual,2022,winata-etal-2022-cross
+Prompting multilingual large language models to generate code-mixed texts: The case of south east asian languages,Yong et al,https://arxiv.org/abs/2303.13592,,,Arxiv,PFA,code_switching,2023,yong2023prompting
+Marathi-English Code-mixed Text Generation,Amin et al,https://arxiv.org/abs/2309.16202,,,Arxiv,PFA,code_switching,2023,amin2023marathi
+Multilingual Large Language Models Are Not (Yet) Code-Switchers,Zhang et al,https://arxiv.org/abs/2305.14235,,,Arxiv,PFA,code_switching,2023,zhang2023multilingual
+Few-shot learning with multilingual language models,Lin et al,https://arxiv.org/abs/2112.10668,https://github.com/facebookresearch/fairseq/tree/main/examples/xglm,,Arxiv,PFA,translation,2021,lin2021few
+Language models are multilingual chain-of-thought reasoners,Shi et al,https://arxiv.org/abs/2210.03057,,,Arxiv,PFA,translation,2022,shi2022language
+Chain-of-Dictionary Prompting Elicits Translation in Large Language Models,Lu et al,https://arxiv.org/abs/2305.06575,,,Arxiv,PFA,translation,2023,lu2023chain
+Do Multilingual Language Models Think Better in English?,Etxaniz et al,https://arxiv.org/abs/2308.01223,https://github.com/juletx/self-translate,,Arxiv,PFA,translation,2023,etxaniz2023multilingual
+Not All Languages Are Created Equal in LLMs: Improving Multilingual Capability by Cross-Lingual-Thought Prompting,Huang et al,https://arxiv.org/abs/2305.07004,https://github.com/microsoft/unilm,,Arxiv,PFA,translation,2023,huang2023not
+Cross-lingual Prompting: Improving Zero-shot Chain-of-Thought Reasoning across Languages,Qin et al,https://arxiv.org/abs/2310.14799,https://github.com/LightChen233/cross-lingual-prompting,,Arxiv,PFA,translation,2023,qin2023crosslingual
+DecoMT: Decomposed Prompting for Machine Translation Between Related Languages using Large Language Models,Puduppully et al,https://aclanthology.org/2023.emnlp-main.279/,https://github.com/ratishsp/DecoMT,,EMNLP,PFA,translation,2023,puduppully2023decomt
+Multilingual LLMs are Better Cross-lingual In-context Learners with Alignment,Tanwar et al,https://arxiv.org/abs/2305.05940,https://github.com/EshaanT/X-InSTA,,Arxiv,PFA,translation,2023,tanwar2023multilingual
+Improving Machine Translation with Large Language Models: A Preliminary Study with Cooperative Decoding,Zeng et al,https://arxiv.org/abs/2311.02851,https://github.com/lemon0830/CoDec,,Arxiv,PFA,translation,2023,zeng2023improving
+BUFFET: Benchmarking Large Language Models for Few-shot Cross-lingual Transfer,Asai et al,https://arxiv.org/abs/2305.14857,https://buffetfs.github.io/,,Arxiv,PFA,translation,2023,asai2023buffet
+On Bilingual Lexicon Induction with Large Language Models,Li et al,https://arxiv.org/abs/2310.13995,https://github.com/cambridgeltl/prompt4bli,,Arxiv,PFA,translation,2023,li2023bilingual
+Prompting large language model for machine translation: A case study,Zhang et al,https://arxiv.org/abs/2301.07069,,,Arxiv,PFA,translation,2023,zhang2023prompting
+Adaptive machine translation with large language models,Moslem et al,https://arxiv.org/abs/2301.13294,https://github.com/ymoslem/Adaptive-MT-LLM,,Arxiv,PFA,translation,2023,moslem2023adaptive
+Leveraging GPT-4 for Automatic Translation Post-Editing,Raunak et al,https://arxiv.org/abs/2305.14878,,,Arxiv,PFA,translation,2023,raunak2023leveraging
+SCALE: Synergized Collaboration of Asymmetric Language Translation Engines,Cheng et al,https://arxiv.org/abs/2309.17061,https://github.com/Hannibal046/SCALE,,Arxiv,PFA,translation,2023,cheng2023scale
+Document-Level Language Models for Machine Translation,Petrick et al,https://arxiv.org/abs/2310.12303,,,Arxiv,PFA,translation,2023,petrick2023document
+On-the-Fly Fusion of Large Language Models and Machine Translation,Hoang et al,https://arxiv.org/abs/2311.08306,,,Arxiv,PFA,translation,2023,hoang2023fly
+Breaking Language Barriers with a LEAP: Learning Strategies for Polyglot LLMs,Nambi et al,https://arxiv.org/abs/2305.17740,,,Arxiv,PFA,translation,2023,nambi2023breaking
+Exploring Prompt Engineering with GPT Language Models for Document-Level Machine Translation: Insights and Findings,Wu et al,https://aclanthology.org/2023.wmt-1.15/,https://github.com/wmt-conference/wmt23-news-systems,,WMT,PFA,translation,2023,wu2023exploring
+Interactive-Chain-Prompting: Ambiguity Resolution for Crosslingual Conditional Generation with Interaction,Pilault et al,https://arxiv.org/abs/2301.10309,https://github.com/jpilaul/interactive_chain_prompting,,Arxiv,PFA,translation,2023,pilault2023interactive
+Bidirectional Language Models Are Also Few-shot Learners,Patel et al,https://arxiv.org/abs/2209.14500,,,Arxiv,PFA,translation,2022,patel2022bidirectional
+CLASP: Few-Shot Cross-Lingual Data Augmentation for Semantic Parsing,Rosenbaum et al,https://aclanthology.org/2022.aacl-short.56,,,ACL,PFA,translation,2022,rosenbaum2022clasp
+Evaluating task understanding through multilingual consistency: A ChatGPT case study,Ohmer et al,https://arxiv.org/abs/2305.11662v3,https://github.com/XeniaOhmer/multisense_consistency,,Arxiv,PFA,translation,2023,ohmer2023evaluating
+Empowering Multi-step Reasoning across Languages via Tree-of-Thoughts,Ranaldi et al,https://arxiv.org/abs/2311.08097,,,Arxiv,PFA,translation,2023,ranaldi2023empowering
+Xricl: Cross-lingual retrieval-augmented in-context learning for cross-lingual text-to-sql semantic parsing,Shi et al,https://aclanthology.org/2022.findings-emnlp.384,https://github.com/Impavidity/XRICL,,ACL,PFA,retrieval,2022,shi2022xricl
+In-context examples selection for machine translation,Agrawal et al,https://arxiv.org/abs/2212.02437,,,Arxiv,PFA,retrieval,2022,agrawal2022context
+From Classification to Generation: Insights into Crosslingual Retrieval Augmented ICL,Li et al,https://arxiv.org/abs/2311.06595,,,Arxiv,PFA,retrieval,2023,li2023classification
+Crosslingual Retrieval Augmented In-context Learning for Bangla,Li et al,https://arxiv.org/abs/2311.00587,,,Arxiv,PFA,retrieval,2023,li2023crosslingual
+Boosting Cross-lingual Transferability in Multilingual Models via In-Context Learning,Kim et al,https://arxiv.org/abs/2305.15233,,,Arxiv,PFA,retrieval,2023,kim2023boosting
+NoMIRACL: Knowing When You Don't Know for Robust Multilingual Retrieval-Augmented Generation,Thakur et al,https://arxiv.org/abs/2312.11361,https://github.com/project-miracl/nomiracl,,Arxiv,PFA,retrieval,2023,thakur2023nomiracl
+LMCap: Few-shot Multilingual Image Captioning by Retrieval Augmented Language Model Prompting,Ramos et al,https://arxiv.org/abs/2305.19821,https://github.com/RitaRamo/lmcap,,Arxiv,PFA,retrieval,2023,ramos2023lmcap
+Multilingual Few-Shot Learning via Language Model Retrieval,Winata et al,https://arxiv.org/abs/2306.10964,,,Arxiv,PFA,retrieval,2023,winata2023multilingual
+The unreasonable effectiveness of few-shot learning for machine translation,Garcia et al,https://arxiv.org/abs/2302.01398,,,Arxiv,PFA,retrieval,2023,garcia2023unreasonable
+Exploring Human-Like Translation Strategy with Large Language Models,He et al,https://arxiv.org/abs/2305.04118,https://github.com/zwhe99/MAPS-mt,,Arxiv,PFA,retrieval,2023,he2023exploring
+Leveraging Multilingual Knowledge Graph to Boost Domain-specific Entity Translation of ChatGPT,Zhang et al,https://aclanthology.org/2023.mtsummit-users.7/,,,MTSummit,PFA,retrieval,2023,zhang2023leveraging
+Increasing Coverage and Precision of Textual Information in Multilingual Knowledge Graphs,Conia et al,https://arxiv.org/abs/2311.15781,,,EMNLP,PFA,retrieval,2023,conia2023increasing
+Language Representation Projection: Can We Transfer Factual Knowledge across Languages in Multilingual Language Models?,Xu et al,https://arxiv.org/abs/2311.03788,,,EMNLP,PFA,retrieval,2023,xu2023language
+Enhancing Multilingual Information Retrieval in Mixed Human Resources Environments: A RAG Model Implementation for Multicultural Enterprise,Ahmad et al,https://arxiv.org/abs/2401.01511,,,Arxiv,PFA,retrieval,2024,ahmad2024enhancing

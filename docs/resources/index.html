@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta content="width=device-width, initial-scale=1" name="viewport" />
+  <meta content="#ffffff" name="theme-color" />
+  <meta content="#da532c" name="msapplication-TileColor" />
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.2/js/bootstrap.min.js" integrity="sha512-5BqtYqlWfJemW5+v+TZUs22uigI8tXeVah5S/1Z6qBLVO7gakAOtkOzUtgq6dsIo5c0NJdmGPs0H9I+2OHUHVQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.2/css/bootstrap.min.css" integrity="sha512-CpIKUSyh9QX2+zSdfGP+eWLx23C8Dj9/XmHjZY2uDtfkdLGo0uY12jgcnkX9vXOgYajEKb/jiw67EYm+kBf+6g==" crossorigin="anonymous" referrerpolicy="no-referrer" /> -->
+  <link href="https://cdn.staticfile.org/twitter-bootstrap/5.1.1/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.staticfile.org/twitter-bootstrap/5.1.1/js/bootstrap.bundle.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+  
+  <link href='&#x2F;icons&#x2F;site.webmanifest' rel="manifest" />
+  
+  
+  <link color="#5bbad5" href='&#x2F;icons&#x2F;safari-pinned-tab.svg' rel="mask-icon" />
+  
+  
+  <link href='&#x2F;icons&#x2F;favicon-16x16.png' rel="icon" sizes="16x16" type="image/png" />
+  
+  
+  <link href='&#x2F;icons&#x2F;favicon-32x32.png' rel="icon" sizes="32x32" type="image/png" />
+  
+  
+  <link href='&#x2F;icons&#x2F;apple-touch-icon.png' rel="apple-touch-icon" sizes="180x180" />
+  
+
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/galleria@1.6.1/dist/themes/folio/galleria.folio.min.css"
+    integrity="sha384-+rY0QD+LRnTOquDMzGa9lXU6jIwdiQuwCJQ2cdcW0qeP/0UbjQCZlXnRsUMA+9pH" crossorigin="anonymous">
+  
+
+  
+  <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css" integrity="sha384-oGm59HWAkwO32h2w8u0B98wKBZJwd6MbWtAJwQKCTffZjOXHXrnyv9Syjovgc+UV"
+    crossorigin="anonymous">
+  
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.1/css/academicons.min.css"
+    integrity="sha384-FIue+PI4SsI9XfHCz8dBLg33b0c1fMJgNU3X//L26FYbGnlSEfWmNT7zgWc2N9b6" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css" integrity="sha256-AbA177XfpSnFEvgpYu1jMygiLabzPCJCRIBtR5jGc0k="
+    crossorigin="anonymous">
+  <link href="https://multilingual-llm.net/deep-thought.css" rel="stylesheet" />
+  <link href="https://multilingual-llm.net/global.css" rel="stylesheet" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+
+  
+  
+
+  <title>
+    
+MLLM | Data Resources
+
+  </title>
+
+  
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=&lt;your_gtag&gt;"></script>
+  <script type="text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+    gtag("config", "&lt;your_gtag&gt;");
+  </script>
+  
+  
+
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css" integrity="sha384-R4558gYOUz8mP9YWpZJjofhk+zx0AS11p36HnD2ZKj/6JR5z27gSSULCNHIRReVs"
+    crossorigin="anonymous">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js" integrity="sha384-z1fJDqw8ZApjGO3/unPWUPsIymfsJmyrDVWC8Tv/a1HeOtGmkwNd/7xUS0Xcnvsx"
+    crossorigin="anonymous"></script>
+
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/mathtex-script-type.min.js"
+    integrity="sha384-jiBVvJ8NGGj5n7kJaiWwWp9AjC+Yh8rhZY3GtAX8yU28azcLgoRo4oukO87g7zDT" crossorigin="anonymous"></script>
+  
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/auto-render.min.js" integrity="sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR"
+    crossorigin="anonymous"></script>
+  
+  
+</head>
+
+<body class="has-background-white">
+  <nav aria-label="section navigation" class="navbar is-light" role="navigation">
+    <div class="container">
+      <div class="navbar-brand">
+        <a class="navbar-item is-size-5 has-text-weight-bold" href="https:&#x2F;&#x2F;multilingual-llm.net">MLLM</a>
+        <a aria-expanded="false" aria-label="menu" class="navbar-burger burger" data-target="navMenu" role="button">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+      <div class="navbar-menu" id="navMenu">
+        <div class="navbar-end has-text-centered">
+          
+          
+          
+          
+          
+          <a class="navbar-item has-text-weight-semibold" href="https:&#x2F;&#x2F;multilingual-llm.net&#x2F;">
+            Home
+          </a>
+          
+          
+          
+          <div class="dropdown">
+            <a type="button" class="navbar-item has-text-weight-semibold dropdown-toggle" data-bs-toggle="dropdown">
+              Paperlist
+            </a>
+            <ul class="dropdown-menu">
+              
+              <li><a class="navbar-item has-text-weight-semibold dropdown-item header-item" href="https:&#x2F;&#x2F;multilingual-llm.net&#x2F;parameter_tuned_alignment">Parameter-Tuned Alignment</a>
+              </li>
+              
+              <li><a class="navbar-item has-text-weight-semibold dropdown-item header-item" href="https:&#x2F;&#x2F;multilingual-llm.net&#x2F;parameter_frozen_alignment">Parameter-Frozen Alignment</a>
+              </li>
+              
+            </ul>
+          </div>
+          
+          
+          
+          
+          
+          <a class="navbar-item has-text-weight-semibold" href="https:&#x2F;&#x2F;multilingual-llm.net&#x2F;trends_future_work">
+            Trends &amp; Future Work
+          </a>
+          
+          
+          
+          
+          <a class="navbar-item has-text-weight-semibold" href="https:&#x2F;&#x2F;multilingual-llm.net&#x2F;resources">
+            Data Resources
+          </a>
+          
+          
+          
+          
+          <a class="navbar-item has-text-weight-semibold" href="https:&#x2F;&#x2F;multilingual-llm.net&#x2F;contact">
+            Contact
+          </a>
+          
+          
+          
+          
+          <a class="navbar-item" id="nav-search" title="Search" data-target="#search-modal">
+            <span class="icon">
+              <i class="fas fa-search"></i>
+            </span>
+          </a>
+          <a class="navbar-item" id="dark-mode" title="Switch to dark theme">
+            <span class="icon">
+              <i class="fas fa-adjust"></i>
+            </span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  
+  
+
+  
+<section class="section">
+  <div class="container">
+    <div class="has-text-centered">
+      <h1 class="title is-2">Data Resources</h1>
+      <p class="subtitle is-4"></p>
+    </div>
+    <div class="content">
+      <p>In multi-lingual large language models, three core procedures are pretraining, supervised fine-tuning (SFT) and reinforcement learning from human feedback (RLHF) . Here, we list the data resources found for these stages respectively.</p>
+<h2 id="multilingual-pretraining-data"><center> Multilingual Pretraining Data</h2>
+<h3 id="manual-creation">Manual Creation</h3>
+<p><strong>Manual Creation</strong> obtains high-quality pre-training corpora through manual creation and proofreading.</p>
+<ul>
+<li><a href="https://huggingface.co/datasets/bible-nlp/biblenlp-corpus"><strong>Bible Corpus</strong></a>. It offers rich linguistic and cultural content, covering 833 different languages. </li>
+<li><a href="https://conferences.unite.un.org/UNCorpus"><strong>MultiUN</strong></a>. It is composed of official records and other parliamentary documents of the United Nations that  are in the public domain. </li>
+<li><a href="https://www.cfilt.iitb.ac.in/iitb_parallel/"><strong>IIT Bombay</strong></a>. The dataset comprises parallel content for English-Hindi, along with monolingual Hindi data gathered from diverse existing sources and corpora.</li>
+</ul>
+<h3 id="web-crawling">Web Crawling</h3>
+<p><strong>Web Crawling</strong> involves crawling extensive multilingual data from the internet.</p>
+<ul>
+<li><a href="https://huggingface.co/datasets/cc100"><strong>CC-100</strong></a>. This corpus comprises of monolingual data for 100+ languages and also includes data for romanized languages.</li>
+<li><a href="https://huggingface.co/datasets/mc4"><strong>mC4</strong></a>. It is a multilingual colossal, cleaned version of Common Crawl's web crawl corpus.</li>
+<li><a href="https://github.com/togethercomputer/RedPajama-Data"><strong>RedPajamav2</strong></a>. It is an open dataset with 30 Trillion Tokens for Training Large Language Models.</li>
+<li><a href="https://huggingface.co/datasets/oscar-corpus/OSCAR-2301"><strong>OSCAR</strong></a>. It is a huge multilingual corpus obtained by language classification and filtering of the Common Crawl corpus using the ungoliant architecture.</li>
+<li><a href="https://huggingface.co/datasets/castorini/afriberta-corpus"><strong>Oromo</strong></a>. The Oromo dataset is mostly from the BBC news website, and some languages also have data from Common Crawl.</li>
+<li><a href="https://data.baai.ac.cn/details/WuDaoCorporaText"><strong>Wu Dao 2.0</strong></a>. It is a large dataset constructed for training Wu Dao 2.0. It contains 3 terabytes of text scraped from web data, 90 terabytes of graphical data (incorporating 630 million text/image pairs), and 181 gigabytes of Chinese dialogue (incorporating 1.4 billion dialogue rounds).</li>
+<li><a href="https://www.statmt.org/europarl/"><strong>Europarl</strong></a>. The Europarl parallel corpus is extracted from the proceedings of the European Parliament. It includes versions in 21 European languages.</li>
+<li><strong>JW300</strong>. It is a parallel corpus of over 300 languages with around 100 thousand parallel sentences per language pair on average.</li>
+<li><a href="https://github.com/cisnlp/Glot500?tab=readme-ov-file#glot500-c"><strong>Glot500</strong></a>. It is a large corpus covering more than 500 diverse languages.</li>
+<li><a href="https://dumps.wikimedia.org/"><strong>Wikimedia</strong></a>. This dataset includes Wikipedia, Wikivoyage, Wiktionary, Wikisource, and others.</li>
+<li><a href="https://github.com/facebookresearch/LASER/tree/main/tasks/WikiMatrix"><strong>WikiMatrix</strong></a>. It is a freely available corpus with 135 million parallel sentences extracted from Wikipedia articles in 85 languages, facilitating multilingual natural language processing tasks.</li>
+<li><a href="https://huggingface.co/datasets/opus100"><strong>OPUS-100</strong></a>. It is an English-centric corpus covering 100 languages, including English, selected based on the volume of parallel data available in OPUS, with all training pairs including English on either the source or target side.</li>
+<li><a href="https://github.com/masakhane-io/lafand-mt"><strong>AfricanNews</strong></a>. The corpus covers 16 languages, some languages are very low-resource languages.</li>
+<li><a href="https://github.com/cisnlp/Taxi1500"><strong>Taxi1500</strong></a>. This dataset is used for assessing multilingual pre-trained language models' cross-lingual generalization, comprising a sentence classification task across 1502 languages from 112 language families.</li>
+<li><a href="https://huggingface.co/datasets/uonlp/CulturaX"><strong>CulturaX</strong></a>. It is a substantial multilingual dataset with 6.3 trillion tokens in 167 languages, tailored for LLM development.</li>
+</ul>
+<h3 id="benchmark-adaption">Benchmark Adaption</h3>
+<p><strong>Benchmark Adaption</strong> means re-cleaning existing benchmark to enhance data quality or integrating existing benchmarks to create more extensive pre-training datasets.</p>
+<ul>
+<li><a href="https://huggingface.co/bigscience-data"><strong>ROOTS</strong></a>. It is a 1.6TB dataset spanning 59 languages (46 natural languages and 13 programming languages), aimed at training the multilingual model BLOOM.</li>
+<li><a href="https://opus.nlpl.eu/"><strong>OPUS</strong></a>. It is a large collection of freely available parallel corpora. It covers over 90 languages and includes data from several domains.</li>
+<li><strong>CCMT Dataset</strong>. The datasets associated with the Conference on China Machine Translation (CCMT) often emphasize Chinese language processing and translation tasks. These datasets typically include parallel corpora of Chinese texts with translations into various languages.</li>
+<li><strong>WMT Dataset</strong>. The datasets released by the Workshop on Machine Translation (WMT) covers a wide range of languages and translation tasks. They include parallel corpora from various domains, such as news, literature, and technical documents.</li>
+<li><strong>IWSLT Dataset</strong>: Datasets released by the International Workshop on Spoken Language Translation (IWSLT) are tailored for spoken language translation tasks, often comprising audio recordings with corresponding transcripts and translations.</li>
+</ul>
+<h2 id="multilingual-sft-data"><center>  Multilingual SFT Data</h2>
+<h3 id="manual-creation-1">Manual Creation</h3>
+<p><strong>Manual Creation</strong> acquires SFT corpora through manual creation and proofreading.</p>
+<ul>
+<li><a href="https://instructions.apps.allenai.org/"><strong>Sup-NatInst</strong></a>. It is a benchmark of 1,616 diverse NLP tasks with expert-written instructions, covering 76 task types. </li>
+<li><a href="https://huggingface.co/OpenAssistant"><strong>OpenAssist</strong></a>. It is a conversation corpus comprising 161,443 messages across 66,497 conversation trees in 35 languages.</li>
+<li><a href="https://github.com/Alibaba-NLP/EcomGPT"><strong>EcoInstruct</strong></a>. It comprises 2.5 million E-commerce instruction data, scaling up the data size and task diversity by constructing atomic tasks with E-commerce basic data types.</li>
+<li><a href="https://huggingface.co/datasets/BAAI/COIG-PC-Lite"><strong>COIG-PC-lite</strong></a>. It is a curated dataset for Chinese NLP tasks, aimed at improving language models' performance in handling Chinese text across various applications.</li>
+</ul>
+<h3 id="benchmark-adaption-1">Benchmark Adaption</h3>
+<p><strong>Benchmark Adaptation</strong> involves transformation from existing benchmarks to instruction format.</p>
+<ul>
+<li><a href="https://huggingface.co/datasets/bigscience/xP3"><strong>xP3</strong></a>. It is a collection of prompts and datasets spanning 46 languages and 16 NLP tasks, utilized for training BLOOMZ and mT0.</li>
+<li><a href="https://huggingface.co/datasets/BuffetFS/BUFFET"><strong>BUFFET</strong></a>. It unifies 15 diverse NLP datasets in typologically diverse 54 languages.</li>
+<li><a href="https://github.com/jinlanfu/Polyglot_Prompt"><strong>PolyglotPrompt</strong></a>. The dataset covers six tasks - topic classification, sentiment classification, named entity recognition, question answering, natural language inference, and summarization - across 49 languages.</li>
+</ul>
+<h3 id="machine-translation">Machine Translation</h3>
+<p><strong>Machine Translation</strong> translates the existing monolingual datasets into multilingual instruction datasets.</p>
+<ul>
+<li><a href="https://huggingface.co/datasets/bigscience/xP3mt"><strong>xP3-MT</strong></a>. It is a mixture of 13 training tasks in 46 languages with prompts in 20 languages (machine-translated from English).</li>
+<li><a href="https://github.com/FreedomIntelligence/MultilingualSIFT"><strong>MultilingualSIFT</strong></a>. It is a dataset translated using GPT-3.5 Turbo.</li>
+<li><a href="https://huggingface.co/datasets/MBZUAI/Bactrian-X"><strong>Bactrian-X</strong></a>. It is a dataset with 3.4 million instruction-response pairs in 52 languages. English instructions from alpaca-52k and dolly-15k are translated into 51 languages using Google Translate API.</li>
+<li><a href="https://github.com/lranaldii/CrossAlpaca"><strong>CrossAlpaca</strong></a>. They are benchmarks used in CrossAlpaca.</li>
+<li><a href="https://github.com/microsoft/MathOctopus"><strong>MGSM8KInstruct</strong></a>. It is an inaugural multilingual math reasoning instruction dataset.</li>
+</ul>
+<h3 id="mllm-aided-generation">MLLM Aided Generation</h3>
+<p><strong>MLLM Aided Generation</strong> means that the data are automatically synthesized with the help of MLLM.</p>
+<ul>
+<li><a href="https://huggingface.co/DAMO-NLP-MT"><strong>MultiAlpaca</strong></a>. It is a multilingual instruction dataset with 132,701 samples.</li>
+<li><a href="https://github.com/artidoro/qlora"><strong>Guanaco</strong></a>. It is the dataset used in Guanaco models.</li>
+<li><a href="https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM"><strong>Alpaca-4</strong></a>. It is a dataset generated by GPT-4, consisting of a 52K instruction-following dataset in both English and Chinese, along with GPT-4-generated feedback data rating the outputs of three instruction-tuned models.</li>
+<li><a href="https://github.com/pppa2019/swie_overmiss_llm4mt"><strong>OverMiss</strong></a>. It is a dataset used to improve model faithfulness by comparing over-translation and misstranslation results with the correct translation.</li>
+<li>ShareGPT. ShareGPT is originally an open-source Chrome Extension, aiming to share user's ChatGPT conversations.</li>
+</ul>
+<h2 id="multilingual-rlhf-data"><center> Multilingual RLHF Data</h2>
+<ul>
+<li><a href="https://github.com/lemon0830/TIM"><strong>TIM</strong></a>. The dataset utilizes constructed samples for model learning comparison signals, supplementing regular translation data with dictionary information or translation errors.</li>
+<li><a href="https://github.com/nlp-uoregon/Okapi"><strong>Okapi</strong></a>. It offers resources for instruction tuning with RLHF across 26 languages, encompassing ChatGPT prompts, multilingual instruction datasets, and multilingual response ranking data.</li>
+</ul>
+
+    </div>
+    <div class="columns is-centered">
+      <div class="column is-9">
+        
+        
+        
+
+        
+      </div>
+    </div>
+  </div>
+</section>
+<div id="texts-root" style="display: none;">https://multilingual-llm.net/texts</div>
+
+
+
+
+
+
+
+  
+  <section class="modal" id="search-modal">
+    <div class="modal-background"></div>
+    <div class="modal-card">
+      <header class="modal-card-head">
+        <p class="modal-card-title">Search</p>
+      </header>
+      <section class="modal-card-body">
+        <div class="field mb-2">
+          <div class="control">
+            <input class="input" id="search" placeholder="Search this website." type="search" />
+          </div>
+        </div>
+        <div class="search-results">
+          <div class="search-results__items"></div>
+        </div>
+      </section>
+    </div>
+    <button aria-label="close" class="modal-close is-large"></button>
+  </section>
+  
+
+
+  
+  
+  
+
+  
+  
+
+  
+  <footer class="footer py-4">
+    <div class="content has-text-centered">
+      <p>
+        Built with
+        <span class="icon-text">
+          <span class="icon">
+            <i class="fas fa-code"></i>
+          </span>
+          <span>code</span>
+        </span>
+        and
+        <span class="icon-text">
+          <span class="icon">
+            <i class="fas fa-heart"></i>
+          </span>
+          <span>love</span>
+        </span>
+      </p>
+      <p>
+        Powered by
+        <span class="icon-text">
+          <span class="icon">
+            <i class="fas fa-power-off"></i>
+          </span>
+          <span>zola</span>
+        </span>
+      </p>
+    </div>
+  </footer>
+  
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha384-vtXRMe3mGCbOeY7l30aIg8H9p3GdeSe4IFlP6G8JMa7o7lXvnz3GFKzPxzJdPfGK"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/galleria@1.6.1/dist/galleria.min.js" integrity="sha384-QSfwGT8/EU536DKdtyP2D6SLlh8zBaZ0cVkwfrwhqzIU9VCfJT00CLVP5t+HAiYg"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/galleria@1.6.1/dist/themes/folio/galleria.folio.min.js"
+    integrity="sha384-DwpKI+deZB267+hPKwiOIc5Y2GKsVL0mR6hgz7GgIu7AgAMYqJwcJKY1YBNfhWcY" crossorigin="anonymous"></script>
+  
+  
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@8.13.5/dist/mermaid.min.js" integrity="sha384-0yWn54pSGtfKCU+skfA69l25VsCw+MZt4LQov3xNRoS7YkAMrFokGgSBnAWSK4pv"
+    crossorigin="anonymous"></script>
+  
+  
+  <script src="https://cdn.jsdelivr.net/npm/chart.xkcd@1.1.13/dist/chart.xkcd.min.js" integrity="sha384-xC3h1+IHXK8seA+8KfT79Z4e0GPsznjXBoMa5nd8ooWKplPyXx92NOmljWxLC/cs"
+    crossorigin="anonymous"></script>
+  
+  
+  <script src="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js" integrity="sha384-Pulw7+h73841BQIK0LzJCydKRPChJUF9w8h8W0o3h+cLtoyNPJS847bQauLWOTwg"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.21/jquery.csv.min.js"
+    integrity="sha512-Y8iWYJDo6HiTo5xtml1g4QqHtl/PO1w+dmUpQfQSOTqKNsMhExfyPN2ncNAe9JuJUSKzwK/b6oaNPop4MXzkwg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  
+  <script src="https://cdn.jsdelivr.net/npm/chart.js" crossorigin="anonymous" referrerpolicy="no-referrer"></Script>
+  <script src="https://multilingual-llm.net/elasticlunr.min.js"></script>
+  <script src="https://multilingual-llm.net/search_index.en.js"></script><script src="https://multilingual-llm.net/js/site.js"></script>
+  <script src="https://multilingual-llm.net/js/main.js"></script>
+
+  
+  
+
+  
+  
+</body>
+
+</html>
