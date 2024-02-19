@@ -1,10 +1,7 @@
 +++
 title = "Multilingual Large Language Model"
-+++
 
-<!--**🔥 Our paper collection is now available at [GitHub](https://github.com/BMPixel/End-to-end-ToD-Papers)** <a href="https://github.com/BMPixel/End-to-end-ToD-Papers">
-  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Github" style="width: 20px; height: auto;">
-</a>! -->
++++
 
 # Introduction
 
