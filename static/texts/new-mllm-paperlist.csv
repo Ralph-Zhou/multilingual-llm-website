@@ -16,7 +16,7 @@ Improving Translation Faithfulness of Large Language Models via Augmenting Instr
 Camoscio: An italian instruction-tuned llama,Santilli et al,https://arxiv.org/abs/2307.16456,,,Arxiv,PTA,sft,2023,santilli2023camoscio
 Conversations in Galician: a Large Language Model for an Underrepresented Language,Bao et al,https://arxiv.org/abs/2311.03812,https://gitlab.irlab.org/irlab/cabuxa,,Arxiv,PTA,sft,2023,bao2023conversations
 Building a Llama2-finetuned LLM for Odia Language Utilizing Domain Knowledge Instruction Set,Kohli et al,https://arxiv.org/abs/2312.12624,,,Arxiv,PTA,sft,2023,kohli2023building
-Making Instruction Finetuning Accessible to Non-English Languages: A Case Study on Swedish Models,Holmstr?m et al,https://aclanthology.org/2023.nodalida-1.62,https://github.com/oskarholmstrom/sweinstruct,,NoDaLiDa,PTA,sft,2023,holmstrom2023making
+Making Instruction Finetuning Accessible to Non-English Languages: A Case Study on Swedish Models,Holmstrom et al,https://aclanthology.org/2023.nodalida-1.62,https://github.com/oskarholmstrom/sweinstruct,,NoDaLiDa,PTA,sft,2023,holmstrom2023making
 Extrapolating Large Language Models to Non-English by Aligning Languages,Zhu et al,https://arxiv.org/abs/2308.04948,https://github.com/NJUNLP/x-LLM,,Arxiv,PTA,sft,2023,zhu2023extrapolating
 Instruct-Align: Teaching Novel Languages with to LLMs through Alignment-based Cross-Lingual Instruction,Cahyawijaya et al,https://arxiv.org/abs/2305.13627,https://github.com/HLTCHKUST/InstructAlign,,Arxiv,PTA,sft,2023,cahyawijaya2023instruct
 Eliciting the Translation Ability of Large Language Models via Multilingual Finetuning with Translation Instructions,Li et al,https://arxiv.org/abs/2305.15083,,,Arxiv,PTA,sft,2023,li2023eliciting
@@ -52,10 +52,10 @@ Cross-Lingual Transfer of Large Language Model by Visually-Derived Supervision T
 Searching for Needles in a Haystack: On the Role of Incidental Bilingualism in PaLM's Translation Capability,Briakou et al,https://arxiv.org/abs/2305.10266,,,Arxiv,PTA,pretraining,2023,briakou2023searching
 Cross-Lingual Supervision improves Large Language Models Pre-training,Schioppa et al,https://arxiv.org/abs/2305.11778,,,Arxiv,PTA,pretraining,2023,schioppa2023cross
 JASMINE: Arabic GPT Models for Few-Shot Learning,Abdul-Mageed et al,https://arxiv.org/abs/2212.10755,,,Arxiv,PTA,pretraining,2023,abdul2023jasmine
-Bridging the Resource Gap: Exploring the Efficacy of English and Multilingual LLMs for Swedish,Holmstr?m et al,https://aclanthology.org/2023.resourceful-1.13,,,ACL,PTA,pretraining,2023,holmstrom2023bridging
+Bridging the Resource Gap: Exploring the Efficacy of English and Multilingual LLMs for Swedish,Holmstrom et al,https://aclanthology.org/2023.resourceful-1.13,,,ACL,PTA,pretraining,2023,holmstrom2023bridging
 Mixtral of experts,Jiang et al,https://arxiv.org/abs/2401.04088,https://github.com/mistralai/mistral-src,,Arxiv,PTA,pretraining,2024,jiang2024mixtral
 Mistral 7B,Jiang et al,https://arxiv.org/abs/2310.06825,https://github.com/mistralai/mistral-src,,Arxiv,PTA,pretraining,2023,jiang2023mistral
-TURNA: A Turkish Encoder-Decoder Language Model for Enhanced Understanding and Generation,Uludo?an et al,https://arxiv.org/abs/2401.14373,https://huggingface.co/boun-tabi-LMG/TURNA,,Arxiv,PTA,pretraining,2024,uludougan2024turna
+TURNA: A Turkish Encoder-Decoder Language Model for Enhanced Understanding and Generation,Uludogan et al,https://arxiv.org/abs/2401.14373,https://huggingface.co/boun-tabi-LMG/TURNA,,Arxiv,PTA,pretraining,2024,uludougan2024turna
 Breaking the Curse of Multilinguality with Cross-lingual Expert Language Models,Blevins et al,https://arxiv.org/abs/2401.10440,,,Arxiv,PTA,pretraining,2024,blevins2024breaking
 Cpm-2: Large-scale cost-effective pre-trained language models,Zhang et al,https://arxiv.org/abs/2106.10715,https://github.com/TsinghuaAI/CPM,,Arxiv,PTA,pretraining,2021,zhang2021cpm
 Overcoming catastrophic forgetting in zero-shot cross-lingual generation,Vu et al,https://aclanthology.org/2022.emnlp-main.630,,,EMNLP,PTA,pretraining,2022,vu2022overcoming
@@ -102,7 +102,7 @@ Improving Translation Faithfulness of Large Language Models via Augmenting Instr
 Camoscio: An italian instruction-tuned llama,Santilli et al,https://arxiv.org/abs/2307.16456,https://github.com/teelinsan/camoscio,,Arxiv,PTA,finetuning,2023,santilli2023camoscio
 Conversations in Galician: a Large Language Model for an Underrepresented Language,Bao et al,https://arxiv.org/abs/2311.03812,https://huggingface.co/irlab-udc/cabuxa-7b,,Arxiv,PTA,finetuning,2023,bao2023conversations
 Building a Llama2-finetuned LLM for Odia Language Utilizing Domain Knowledge Instruction Set,Kohli et al,https://arxiv.org/abs/2312.12624,,,Arxiv,PTA,finetuning,2023,kohli2023building
-Making Instruction Finetuning Accessible to Non-English Languages: A Case Study on Swedish Models,Holmstr?m et al,https://aclanthology.org/2023.nodalida-1.62,,,NoDaLiDa,PTA,finetuning,2023,holmstrom2023making
+Making Instruction Finetuning Accessible to Non-English Languages: A Case Study on Swedish Models,Holmstrom et al,https://aclanthology.org/2023.nodalida-1.62,,,NoDaLiDa,PTA,finetuning,2023,holmstrom2023making
 Extrapolating Large Language Models to Non-English by Aligning Languages,Zhu et al,https://arxiv.org/abs/2308.04948,https://github.com/NJUNLP/x-LLM,,Arxiv,PTA,finetuning,2023,zhu2023extrapolating
 Instruct-Align: Teaching Novel Languages with to LLMs through Alignment-based Cross-Lingual Instruction,Cahyawijaya et al,https://arxiv.org/abs/2305.13627,https://github.com/HLTCHKUST/InstructAlign,,Arxiv,PTA,finetuning,2023,cahyawijaya2023instruct
 Eliciting the Translation Ability of Large Language Models via Multilingual Finetuning with Translation Instructions,Li et al,https://arxiv.org/abs/2305.15083,,,Arxiv,PTA,finetuning,2023,li2023eliciting
