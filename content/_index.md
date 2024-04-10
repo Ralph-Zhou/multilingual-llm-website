@@ -3,6 +3,12 @@ title = "Multilingual Large Language Model"
 
 +++
 
+<br>
+
+**🔥 Our paper collection is now available at [GitHub](https://github.com/LightChen233/Awesome-Multilingual-LLM)** <a href="https://github.com/BMPixel/End-to-end-ToD-Papers">
+  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Github" style="width: 20px; height: auto;">
+</a>!
+
 # Introduction
 
 In recent years, remarkable progress has been witnessed in large language models (LLMS) , which have achieved excellent performance on various natural language processing tasks. In addition, LLMs raise surprising emergent capabilities, including in-context learning, chain-of-thought reasoning and even planning. Nevertheless, the majority of LLMs are English-Centric LLMs that mainly focus on the English tasks, which still slightly weak for multilingual setting, especially in low-resource scenarios.
@@ -20,14 +26,15 @@ In the following are two categories for aligning method:
 
 <img src="images/intro.jpg" align="center" />
 
-
-
-<!--
-
 If you find this repository helpful for your work,  please kindly cite the following paper.
 
 <pre>
----
+@misc{qin2024multilingual,
+      title={Multilingual Large Language Model: A Survey of Resources, Taxonomy and Frontiers}, 
+      author={Libo Qin and Qiguang Chen and Yuhang Zhou and Zhi Chen and Yinghui Li and Lizi Liao and Min Li and Wanxiang Che and Philip S. Yu},
+      year={2024},
+      eprint={2404.04925},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 </pre>
--->
-
